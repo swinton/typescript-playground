@@ -1,0 +1,26 @@
+{
+  "name": "typescript-playground",
+  "version": "0.0.1",
+  "description": "## Usage ```shell tsc node ./dist/index.js ```",
+  "main": "ts-check-js-doc-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swinton/typescript-playground.git"
+  },
+  "keywords": [],
+  "author": "Steve Winton <stevewinton@gmail.com> (https://github.com/swinton)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swinton/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/swinton/typescript-playground#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.144"
+  }
+}
